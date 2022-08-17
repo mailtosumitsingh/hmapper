@@ -1,4 +1,4 @@
-package org.menlorobotics.rvr.ev3;
+package org.menlorobotics.hmapper;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
